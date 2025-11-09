@@ -1,0 +1,13 @@
+name = "Snakes on a Train"
+author = "Olipla"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fd2a84c6de7e24afcbee67924fa6de8925aae2dde89aa01dd1f8eb167099e69f"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

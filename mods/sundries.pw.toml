@@ -1,0 +1,13 @@
+name = "Sundries"
+filename = "sundries-1.6.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q8pvqaSh/versions/geNN1fm5/sundries-1.6.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "42f372f0635ec6bc09994e8ee10007db1ce90b32063c524f6f18d3fcb8d83961a8cd1dd6fb586265cec7db428ac55b2f01229221eb6b4618018e81b5ebd4e0ad"
+
+[update]
+[update.modrinth]
+mod-id = "q8pvqaSh"
+version = "geNN1fm5"
